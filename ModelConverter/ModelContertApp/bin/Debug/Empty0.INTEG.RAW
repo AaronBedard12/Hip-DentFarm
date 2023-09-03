@@ -1,0 +1,280 @@
+***** Repair of database 'C:\Users\ChristophSydora\Desktop\Empty0.xBIM' started [ESENT version 10.00.18363.0000, (ESENT[10.0.18363.0] RETAIL RTM MBCS)]
+
+search for 'ERROR:' to find errors
+search for 'WARNING:' to find warnings
+checking database header
+ERROR: database was not shutdown cleanly (Dirty Shutdown)
+database file "C:\Users\ChristophSydora\Desktop\Empty0.xBIM" is 1048576 bytes
+database file "C:\Users\ChristophSydora\Desktop\Empty0.xBIM" is 1048576 bytes on disk.
+Creating 32 threads
+checking SystemRoot
+SystemRoot (OE)
+SystemRoot (AE)
+checking system tables
+MSysObjects 
+MSysObjectsShadow 
+MSysObjects Name
+MSysObjects RootObjects
+rebuilding and comparing indexes
+checking logical consistency of system tables
+MSysObjects
+MSysObjectsShadow
+MSysObjids
+Geometry:	28500:	checking table "Geometry" (11)
+Geometry:	28500:	checking data
+Geometry:	28500:	checking index "GeomStyleIndex" (14)
+Geometry:	28500:	checking index "GeomTypeIndex" (13)
+Geometry:	28500:	checking index "GeomHashIndex" (12)
+Geometry:	28500:	rebuilding and comparing indexes
+Geometry:	28500:	integrity-check of table "Geometry" (11) finishes with error 0 (0x0) after 0 seconds
+IfcEntities:	28500:	checking table "IfcEntities" (8)
+IfcEntities:	28500:	checking data
+IfcEntities:	28500:	integrity-check of table "IfcEntities" (8) finishes with error 0 (0x0) after 0 seconds
+IfcEntitiesIndex:	28500:	checking table "IfcEntitiesIndex" (9)
+IfcEntitiesIndex:	28500:	checking data
+IfcEntitiesIndex:	28500:	integrity-check of table "IfcEntitiesIndex" (9) finishes with error 0 (0x0) after 0 seconds
+MetaData:	28500:	checking table "MetaData" (10)
+MetaData:	28500:	checking data
+MetaData:	28500:	integrity-check of table "MetaData" (10) finishes with error 0 (0x0) after 0 seconds
+MSysLocales:	28500:	checking table "MSysLocales" (7)
+MSysLocales:	28500:	checking data
+MSysLocales:	28500:	integrity-check of table "MSysLocales" (7) finishes with error 0 (0x0) after 0 seconds
+MSysObjids:	28500:	checking table "MSysObjids" (6)
+MSysObjids:	28500:	checking data
+MSysObjids:	28500:	integrity-check of table "MSysObjids" (6) finishes with error 0 (0x0) after 0 seconds
+ShapeGeometry:	28500:	checking table "ShapeGeometry" (21)
+ShapeGeometry:	28500:	checking data
+ShapeGeometry:	28500:	checking index "ShapeGeomReferenceIndex" (22)
+ShapeGeometry:	28500:	rebuilding and comparing indexes
+ShapeGeometry:	28500:	integrity-check of table "ShapeGeometry" (21) finishes with error 0 (0x0) after 0 seconds
+ShapeInstances:	28500:	checking table "ShapeInstances" (23)
+ShapeInstances:	28500:	checking data
+ShapeInstances:	28500:	checking index "ProductTypeIndex" (26)
+ShapeInstances:	28500:	checking index "ProductIndex" (25)
+ShapeInstances:	28500:	checking index "GeometryShapeIndex" (24)
+ShapeInstances:	28500:	rebuilding and comparing indexes
+ShapeInstances:	28500:	integrity-check of table "ShapeInstances" (23) finishes with error 0 (0x0) after 0 seconds
+changing signature of C:\Users\ChristophSydora\Desktop\Empty0.xBIM
+new DB signature is:
+Create time:Create time:06/30/2020 22:14:45.793 Rand:1503748926 Computer:
+scanning the database from page 1 to page 254
+changing signature of C:\Users\ChristophSydora\Desktop\Empty0.xBIM
+new DB signature is:
+Create time:Create time:06/30/2020 22:14:45.870 Rand:3204520249 Computer:
+
+Repair completed. Database corruption has been repaired!
+
+
+
+***** Eseutil completed in 0 seconds
+
+***** Repair of database 'C:\Users\ChristophSydora\Desktop\Empty0.xBIM' started [ESENT version 10.00.18363.0000, (ESENT[10.0.18363.0] RETAIL RTM MBCS)]
+
+search for 'ERROR:' to find errors
+search for 'WARNING:' to find warnings
+checking database header
+ERROR: database was not shutdown cleanly (Dirty Shutdown)
+database file "C:\Users\ChristophSydora\Desktop\Empty0.xBIM" is 1048576 bytes
+database file "C:\Users\ChristophSydora\Desktop\Empty0.xBIM" is 1048576 bytes on disk.
+Creating 32 threads
+checking SystemRoot
+SystemRoot (OE)
+SystemRoot (AE)
+checking system tables
+MSysObjects 
+MSysObjectsShadow 
+MSysObjects Name
+MSysObjects RootObjects
+rebuilding and comparing indexes
+checking logical consistency of system tables
+MSysObjects
+MSysObjectsShadow
+MSysObjids
+Geometry:	8748:	checking table "Geometry" (11)
+Geometry:	8748:	checking data
+Geometry:	8748:	checking index "GeomStyleIndex" (14)
+Geometry:	8748:	checking index "GeomTypeIndex" (13)
+Geometry:	8748:	checking index "GeomHashIndex" (12)
+Geometry:	8748:	rebuilding and comparing indexes
+Geometry:	8748:	integrity-check of table "Geometry" (11) finishes with error 0 (0x0) after 0 seconds
+IfcEntities:	8748:	checking table "IfcEntities" (8)
+IfcEntities:	8748:	checking data
+IfcEntities:	8748:	integrity-check of table "IfcEntities" (8) finishes with error 0 (0x0) after 0 seconds
+IfcEntitiesIndex:	8748:	checking table "IfcEntitiesIndex" (9)
+IfcEntitiesIndex:	8748:	checking data
+IfcEntitiesIndex:	8748:	integrity-check of table "IfcEntitiesIndex" (9) finishes with error 0 (0x0) after 0 seconds
+MetaData:	8748:	checking table "MetaData" (10)
+MetaData:	8748:	checking data
+MetaData:	8748:	integrity-check of table "MetaData" (10) finishes with error 0 (0x0) after 0 seconds
+MSysLocales:	8748:	checking table "MSysLocales" (7)
+MSysLocales:	8748:	checking data
+MSysLocales:	8748:	integrity-check of table "MSysLocales" (7) finishes with error 0 (0x0) after 0 seconds
+MSysObjids:	8748:	checking table "MSysObjids" (6)
+MSysObjids:	8748:	checking data
+MSysObjids:	8748:	integrity-check of table "MSysObjids" (6) finishes with error 0 (0x0) after 0 seconds
+ShapeGeometry:	8748:	checking table "ShapeGeometry" (21)
+ShapeGeometry:	8748:	checking data
+ShapeGeometry:	8748:	checking index "ShapeGeomReferenceIndex" (22)
+ShapeGeometry:	8748:	rebuilding and comparing indexes
+ShapeGeometry:	8748:	integrity-check of table "ShapeGeometry" (21) finishes with error 0 (0x0) after 0 seconds
+ShapeInstances:	8748:	checking table "ShapeInstances" (23)
+ShapeInstances:	8748:	checking data
+ShapeInstances:	8748:	checking index "ProductTypeIndex" (26)
+ShapeInstances:	8748:	checking index "ProductIndex" (25)
+ShapeInstances:	8748:	checking index "GeometryShapeIndex" (24)
+ShapeInstances:	8748:	rebuilding and comparing indexes
+ShapeInstances:	8748:	integrity-check of table "ShapeInstances" (23) finishes with error 0 (0x0) after 0 seconds
+changing signature of C:\Users\ChristophSydora\Desktop\Empty0.xBIM
+new DB signature is:
+Create time:Create time:06/30/2020 22:15:19.173 Rand:11437379 Computer:
+scanning the database from page 1 to page 254
+changing signature of C:\Users\ChristophSydora\Desktop\Empty0.xBIM
+new DB signature is:
+Create time:Create time:06/30/2020 22:15:19.239 Rand:4058827295 Computer:
+
+Repair completed. Database corruption has been repaired!
+
+
+
+***** Eseutil completed in 0 seconds
+
+***** Repair of database 'C:\Users\ChristophSydora\Desktop\Empty0.xBIM' started [ESENT version 10.00.18363.0000, (ESENT[10.0.18363.0] RETAIL RTM MBCS)]
+
+search for 'ERROR:' to find errors
+search for 'WARNING:' to find warnings
+checking database header
+ERROR: database was not shutdown cleanly (Dirty Shutdown)
+database file "C:\Users\ChristophSydora\Desktop\Empty0.xBIM" is 1048576 bytes
+database file "C:\Users\ChristophSydora\Desktop\Empty0.xBIM" is 1048576 bytes on disk.
+Creating 32 threads
+checking SystemRoot
+SystemRoot (OE)
+SystemRoot (AE)
+checking system tables
+MSysObjects 
+MSysObjectsShadow 
+MSysObjects Name
+MSysObjects RootObjects
+rebuilding and comparing indexes
+checking logical consistency of system tables
+MSysObjects
+MSysObjectsShadow
+MSysObjids
+Geometry:	10904:	checking table "Geometry" (11)
+Geometry:	10904:	checking data
+Geometry:	10904:	checking index "GeomStyleIndex" (14)
+Geometry:	10904:	checking index "GeomTypeIndex" (13)
+Geometry:	10904:	checking index "GeomHashIndex" (12)
+Geometry:	10904:	rebuilding and comparing indexes
+Geometry:	10904:	integrity-check of table "Geometry" (11) finishes with error 0 (0x0) after 0 seconds
+IfcEntities:	10904:	checking table "IfcEntities" (8)
+IfcEntities:	10904:	checking data
+IfcEntities:	10904:	integrity-check of table "IfcEntities" (8) finishes with error 0 (0x0) after 0 seconds
+IfcEntitiesIndex:	10904:	checking table "IfcEntitiesIndex" (9)
+IfcEntitiesIndex:	10904:	checking data
+IfcEntitiesIndex:	10904:	integrity-check of table "IfcEntitiesIndex" (9) finishes with error 0 (0x0) after 0 seconds
+MetaData:	10904:	checking table "MetaData" (10)
+MetaData:	10904:	checking data
+MetaData:	10904:	integrity-check of table "MetaData" (10) finishes with error 0 (0x0) after 0 seconds
+MSysLocales:	10904:	checking table "MSysLocales" (7)
+MSysLocales:	10904:	checking data
+MSysLocales:	10904:	integrity-check of table "MSysLocales" (7) finishes with error 0 (0x0) after 0 seconds
+MSysObjids:	10904:	checking table "MSysObjids" (6)
+MSysObjids:	10904:	checking data
+MSysObjids:	10904:	integrity-check of table "MSysObjids" (6) finishes with error 0 (0x0) after 0 seconds
+ShapeGeometry:	10904:	checking table "ShapeGeometry" (21)
+ShapeGeometry:	10904:	checking data
+ShapeGeometry:	10904:	checking index "ShapeGeomReferenceIndex" (22)
+ShapeGeometry:	10904:	rebuilding and comparing indexes
+ShapeGeometry:	10904:	integrity-check of table "ShapeGeometry" (21) finishes with error 0 (0x0) after 0 seconds
+ShapeInstances:	10904:	checking table "ShapeInstances" (23)
+ShapeInstances:	10904:	checking data
+ShapeInstances:	10904:	checking index "ProductTypeIndex" (26)
+ShapeInstances:	10904:	checking index "ProductIndex" (25)
+ShapeInstances:	10904:	checking index "GeometryShapeIndex" (24)
+ShapeInstances:	10904:	rebuilding and comparing indexes
+ShapeInstances:	10904:	integrity-check of table "ShapeInstances" (23) finishes with error 0 (0x0) after 0 seconds
+changing signature of C:\Users\ChristophSydora\Desktop\Empty0.xBIM
+new DB signature is:
+Create time:Create time:06/30/2020 22:21:16.471 Rand:1710262313 Computer:
+scanning the database from page 1 to page 254
+changing signature of C:\Users\ChristophSydora\Desktop\Empty0.xBIM
+new DB signature is:
+Create time:Create time:06/30/2020 22:21:16.545 Rand:1390893866 Computer:
+
+Repair completed. Database corruption has been repaired!
+
+
+
+***** Eseutil completed in 0 seconds
+
+***** Repair of database 'C:\Users\ChristophSydora\Desktop\Empty0.xBIM' started [ESENT version 10.00.18363.0000, (ESENT[10.0.18363.0] RETAIL RTM MBCS)]
+
+search for 'ERROR:' to find errors
+search for 'WARNING:' to find warnings
+checking database header
+ERROR: database was not shutdown cleanly (Dirty Shutdown)
+database file "C:\Users\ChristophSydora\Desktop\Empty0.xBIM" is 1048576 bytes
+database file "C:\Users\ChristophSydora\Desktop\Empty0.xBIM" is 1048576 bytes on disk.
+Creating 32 threads
+checking SystemRoot
+SystemRoot (OE)
+SystemRoot (AE)
+checking system tables
+MSysObjects 
+MSysObjectsShadow 
+MSysObjects Name
+MSysObjects RootObjects
+rebuilding and comparing indexes
+checking logical consistency of system tables
+MSysObjects
+MSysObjectsShadow
+MSysObjids
+Geometry:	12184:	checking table "Geometry" (11)
+Geometry:	12184:	checking data
+Geometry:	12184:	checking index "GeomStyleIndex" (14)
+Geometry:	12184:	checking index "GeomTypeIndex" (13)
+Geometry:	12184:	checking index "GeomHashIndex" (12)
+Geometry:	12184:	rebuilding and comparing indexes
+Geometry:	12184:	integrity-check of table "Geometry" (11) finishes with error 0 (0x0) after 0 seconds
+IfcEntities:	12184:	checking table "IfcEntities" (8)
+IfcEntities:	12184:	checking data
+IfcEntities:	12184:	integrity-check of table "IfcEntities" (8) finishes with error 0 (0x0) after 0 seconds
+IfcEntitiesIndex:	12184:	checking table "IfcEntitiesIndex" (9)
+IfcEntitiesIndex:	12184:	checking data
+IfcEntitiesIndex:	12184:	integrity-check of table "IfcEntitiesIndex" (9) finishes with error 0 (0x0) after 0 seconds
+MetaData:	12184:	checking table "MetaData" (10)
+MetaData:	12184:	checking data
+MetaData:	12184:	integrity-check of table "MetaData" (10) finishes with error 0 (0x0) after 0 seconds
+MSysLocales:	12184:	checking table "MSysLocales" (7)
+MSysLocales:	12184:	checking data
+MSysLocales:	12184:	integrity-check of table "MSysLocales" (7) finishes with error 0 (0x0) after 0 seconds
+MSysObjids:	12184:	checking table "MSysObjids" (6)
+MSysObjids:	12184:	checking data
+MSysObjids:	12184:	integrity-check of table "MSysObjids" (6) finishes with error 0 (0x0) after 0 seconds
+ShapeGeometry:	12184:	checking table "ShapeGeometry" (21)
+ShapeGeometry:	12184:	checking data
+ShapeGeometry:	12184:	checking index "ShapeGeomReferenceIndex" (22)
+ShapeGeometry:	12184:	rebuilding and comparing indexes
+ShapeGeometry:	12184:	integrity-check of table "ShapeGeometry" (21) finishes with error 0 (0x0) after 0 seconds
+ShapeInstances:	12184:	checking table "ShapeInstances" (23)
+ShapeInstances:	12184:	checking data
+ShapeInstances:	12184:	checking index "ProductTypeIndex" (26)
+ShapeInstances:	12184:	checking index "ProductIndex" (25)
+ShapeInstances:	12184:	checking index "GeometryShapeIndex" (24)
+ShapeInstances:	12184:	rebuilding and comparing indexes
+ShapeInstances:	12184:	integrity-check of table "ShapeInstances" (23) finishes with error 0 (0x0) after 0 seconds
+changing signature of C:\Users\ChristophSydora\Desktop\Empty0.xBIM
+new DB signature is:
+Create time:Create time:06/30/2020 22:25:47.407 Rand:1522180627 Computer:
+scanning the database from page 1 to page 254
+changing signature of C:\Users\ChristophSydora\Desktop\Empty0.xBIM
+new DB signature is:
+Create time:Create time:06/30/2020 22:25:47.481 Rand:1668404752 Computer:
+
+Repair completed. Database corruption has been repaired!
+
+
+
+***** Eseutil completed in 0 seconds
+
